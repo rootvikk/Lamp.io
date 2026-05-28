@@ -1,7 +1,3 @@
-Here is a draft for your GitHub README file, incorporating the technical details from your resume and the descriptive gameplay elements from your itch.io page.
-
----
-
 # lamp.io
 
 **lamp.io** is a minimalist 2D platformer developed in Unity. Step into the shadows as a glowing yellow cube on a mission to find the light. Navigate through stark, dark environments, relying on your platforming skills to cross gaps and reach safety.

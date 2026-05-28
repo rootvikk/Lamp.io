@@ -6,7 +6,7 @@ Your ultimate goal? The glowing green lamp at the end of each stage. But the pat
 
 ## 🎮 Play the Game
 
-You can download and play the game on [Itch.io]([https://rootvikk.itch.io/lampio]) 
+You can download and play the game on [Itch.io](https://rootvikk.itch.io/lampio) 
 
 ## ✨ Features
 
